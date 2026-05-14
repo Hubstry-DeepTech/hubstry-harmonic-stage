@@ -5,7 +5,7 @@ version: "0.1.0"
 date-released: "2026-05-15"
 license: Apache-2.0
 url: "https://hubstry.dev"
-repository-code: "https://github.com/hubstry/hubstry-harmonic-stage"
+repository-code: "https://github.com/Hubstry-DeepTech/hubstry-harmonic-stage"
 
 authors:
   - family-names: Machado

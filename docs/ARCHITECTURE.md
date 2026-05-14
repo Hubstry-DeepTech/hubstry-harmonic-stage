@@ -6,7 +6,7 @@ O Hubstry Harmonic Stage (HStage) é a implementação do **HPG 1.0** para o dom
 
 ## Pilares Matemáticos
 
-O HPG 1.0 (DOI: 10.5281/zenodo.18652888) define canais de comunicação como frações racionais irredutíveis:
+O HPG 1.0 (DOI: 10.5281/zenodo.19056387) define canais de comunicação como frações racionais irredutíveis:
 
 ```
 f(a,b) = (a/b) × f₀    onde mdc(a,b) = 1

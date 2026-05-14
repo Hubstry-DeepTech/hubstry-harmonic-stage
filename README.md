@@ -16,7 +16,7 @@
   <a href="LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/Licença-Apache_2.0-green.svg" alt="Licença Apache 2.0" />
   </a>
-  <a href="https://doi.org/10.5281/zenodo.18652888" target="_blank">
+  <a href="https://doi.org/10.5281/zenodo.19056387" target="_blank">
     <img src="https://img.shields.io/badge/HPG-1.0-orange.svg" alt="HPG 1.0 Compatível" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 
 ## 🎭 Sobre o Projeto
 
-**Hubstry Harmonic Stage (HStage)** é o módulo de tecnologia de palco e iluminação do ecossistema [Hubstry Harmonic Protocol](https://hubstry.dev). HStage substitui o protocolo DMX512 por um protocolo baseado em harmonização harmônica, oferecendo autenticação robusta de 200 bytes, latência sub-milissegundo e até 255 canais no formato H16 — superando drasticamente os limites do DMX512 tradicional (0 bytes de autenticação, 512 canais brutos, latência de ~23 ms por universo).
+**Hubstry Harmonic Stage (HStage)** é o módulo de tecnologia de palco e iluminação do ecossistema [Hubstry Harmonic Protocol](https://github.com/guilherme-machado-ceo/iot-protocol-hubstry). HStage substitui o protocolo DMX512 por um protocolo baseado em harmonização harmônica, oferecendo autenticação robusta de 200 bytes, latência sub-milissegundo e até 255 canais no formato H16 — superando drasticamente os limites do DMX512 tradicional (0 bytes de autenticação, 512 canais brutos, latência de ~23 ms por universo).
 
 ### Diferenciais em Relação aos Padrões Atuais
 
@@ -45,7 +45,7 @@
 
 ## 🏗️ Arquitetura
 
-A arquitetura do HStage segue os princípios estabelecidos no **Hubstry Protocol Guide (HPG 1.0)**, organizando-se em camadas harmônicas com descoberta automática, autenticação mútua e compressão H16 para máxima eficiência na transmissão de dados de iluminação e controle cênico.
+A arquitetura do HStage segue os princípios estabelecidos no **Harmonic Protocol Grid (HPG 1.0)**, organizando-se em camadas harmônicas com descoberta automática, autenticação mútua e compressão H16 para máxima eficiência na transmissão de dados de iluminação e controle cênico.
 
 Para detalhes completos da arquitetura, consulte a [documentação em `docs/`](docs/).
 
@@ -156,17 +156,17 @@ hubstry-harmonic-stage/
 
 ## 📚 Publicações Relacionadas
 
-- **Hubstry Protocol Guide (HPG) 1.0**
+- **Harmonic Protocol Grid (HPG) 1.0**
   Guilherme Gonçalves Machado, 2025.
-  DOI: [10.5281/zenodo.18652888](https://doi.org/10.5281/zenodo.18652888)
+  DOI: [10.5281/zenodo.19056387](https://doi.org/10.5281/zenodo.19056387)
 
-- **Hubstry Malware Analysis Language (HMAL)**
+- **Hubstry Marine Acoustic Layer (HMAL)**
   Guilherme Gonçalves Machado, 2025.
   DOI: [10.5281/zenodo.20184616](https://doi.org/10.5281/zenodo.20184616)
 
 - **GuruDev Core**
   Guilherme Gonçalves Machado, 2025.
-  DOI: [10.5281/zenodo.19772798](https://doi.org/10.5281/zenodo.19772798)
+  Repositorio: [github.com/Hubstry-DeepTech/gurudev-core](https://github.com/Hubstry-DeepTech/gurudev-core)`n`n- **Programacao Comparada**`n  Guilherme Goncalves Machado, 2025.`n  DOI: [10.5281/zenodo.20028887](https://doi.org/10.5281/zenodo.20028887)`n  Repositorio: [github.com/Hubstry-DeepTech/gurudev-programacao-comparada](https://github.com/Hubstry-DeepTech/gurudev-programacao-comparada)
 
 ---
 

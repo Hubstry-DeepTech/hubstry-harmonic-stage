@@ -44,7 +44,7 @@ hstage = "src.cli:main"
 [project.urls]
 Homepage = "https://hubstry.dev"
 Documentation = "https://hubstry.dev/docs/hstage"
-Repository = "https://github.com/hubstry/hubstry-harmonic-stage"
+Repository = "https://github.com/Hubstry-DeepTech/hubstry-harmonic-stage"
 License = "https://www.apache.org/licenses/LICENSE-2.0"
 
 [tool.setuptools.packages.find]

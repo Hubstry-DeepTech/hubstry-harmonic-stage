@@ -29,7 +29,7 @@ git commit -m "feat: estrutura completa do hubstry-harmonic-stage v0.1.0
 - Examples: 3 demos (grid, fixtures, cues)
 - CLI: comando hstage
 
-Baseado no HPG 1.0 (DOI: 10.5281/zenodo.18652888)
+Baseado no HPG 1.0 (DOI: 10.5281/zenodo.19056387)
 Apache 2.0 — Guilherme Goncalves Machado (ORCID: 0009-0008-1083-0784)"
 
 # 4. Adicionar remote (substitua pela URL do seu repo)

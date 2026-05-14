@@ -1,7 +1,7 @@
 """Hubstry Harmonic Stage - Core Module
 
 Módulo central do protocolo harmônico para indústria criativa.
-Baseado no HPG 1.0 (DOI: 10.5281/zenodo.18652888).
+Baseado no HPG 1.0 (DOI: 10.5281/zenodo.19056387).
 
 O HPG define canais de comunicação como frações racionais irredutíveis
 de uma frequência fundamental f₀: f(a,b) = (a/b) × f₀, onde mdc(a,b) = 1.

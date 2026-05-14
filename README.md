@@ -160,7 +160,7 @@ hubstry-harmonic-stage/
   Guilherme Gonçalves Machado, 2025.
   DOI: [10.5281/zenodo.18652888](https://doi.org/10.5281/zenodo.18652888)
 
-- **Hubstry Marine Acoustic Layer (HMAL)**
+- **Hubstry Malware Analysis Language (HMAL)**
   Guilherme Gonçalves Machado, 2025.
   DOI: [10.5281/zenodo.20184616](https://doi.org/10.5281/zenodo.20184616)
 

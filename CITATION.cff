@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use Hubstry Harmonic Stage in your research or production."
+title: "Hubstry Harmonic Stage: Protocolo Harmônico para Indústria Criativa e Tecnologia de Palco"
+version: "0.1.0"
+date-released: "2026-05-15"
+license: Apache-2.0
+url: "https://hubstry.dev"
+repository-code: "https://github.com/hubstry/hubstry-harmonic-stage"
+
+authors:
+  - family-names: Machado
+    given-names: Guilherme Gonçalves
+    orcid: "https://orcid.org/0009-0008-1083-0784"
+    affiliation: "Hubstry Deep Tech"
+    email: guilhermemachado.ceo@hubstry.dev
+
+keywords:
+  - "harmonic protocol"
+  - "stage lighting"
+  - "DMX512 replacement"
+  - "creative technology"
+  - "H16 encoding"
+  - "Hubstry"
+
+abstract: >-
+  Hubstry Harmonic Stage (HStage) é o módulo de tecnologia de palco e iluminação
+  do ecossistema Hubstry Harmonic Protocol. Substitui o protocolo DMX512 por
+  comunicação baseada em harmonização harmônica, oferecendo autenticação robusta
+  de 200 bytes (HMAC-SHA256), latência sub-milissegundo, criptografia nativa
+  (AES-256-GCM) e até 255 canais com resolução de 16 bits no formato H16.

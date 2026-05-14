@@ -166,7 +166,7 @@ hubstry-harmonic-stage/
 
 - **GuruDev Core**
   Guilherme Gonçalves Machado, 2025.
-  Repositorio: [github.com/Hubstry-DeepTech/gurudev-core](https://github.com/Hubstry-DeepTech/gurudev-core)`n`n- **Programacao Comparada**`n  Guilherme Goncalves Machado, 2025.`n  DOI: [10.5281/zenodo.20028887](https://doi.org/10.5281/zenodo.20028887)`n  Repositorio: [github.com/Hubstry-DeepTech/gurudev-programacao-comparada](https://github.com/Hubstry-DeepTech/gurudev-programacao-comparada)
+  Repositorio: [github.com/Hubstry-DeepTech/gurudev-core](https://github.com/Hubstry-DeepTech/gurudev-core)
 
 ---
 
@@ -191,3 +191,7 @@ Este projeto é licenciado sob os termos da **Licença Apache 2.0**. Consulte o 
 <p align="center">
   <sub>Hubstry Deep Tech · Construindo o futuro harmônico da tecnologia criativa</sub>
 </p>
+- **Programacao Comparada**
+  Guilherme Goncalves Machado, 2025.
+  DOI: [10.5281/zenodo.20028887](https://doi.org/10.5281/zenodo.20028887)
+  Repositorio: [github.com/Hubstry-DeepTech/gurudev-programacao-comparada](https://github.com/Hubstry-DeepTech/gurudev-programacao-comparada)
